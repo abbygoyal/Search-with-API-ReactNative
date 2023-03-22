@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "abby",
+      "age": 26,
+      "email": "abby@test.com",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "age": 22,
+      "email": "peter@test.com",
+      "id": 2
+    },
+    {
+      "name": "abhishek",
+      "age": 25,
+      "email": "abhishek@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "michael",
+      "age": "31",
+      "email": "michael@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "abby",
+      "age": 25,
+      "email": "abhishek@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "jonny",
+      "age": "18",
+      "email": "jonny@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "natasha",
+      "age": 32,
+      "email": "natasha@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "angela white",
+      "age": 28,
+      "email": "anegela@gmail.com",
+      "id": 8
+    }
+  ]
+}
